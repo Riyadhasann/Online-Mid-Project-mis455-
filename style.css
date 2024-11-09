@@ -15,3 +15,29 @@ header nav ul {
     list-style: none;
     padding: 0;
 }
+
+header nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+
+}
+
+.flex-container .content {
+    max-width: 50%;
+    margin-left: 50%;
+}
