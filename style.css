@@ -2,15 +2,15 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 5px;
     padding: 0;
-    color: #333;
-    background: linear-gradient(135deg, #bfd1ea, #a1d0db, #d6e0ea);
+    color: rgb(102, 58, 1);
+    background: white;
 
 }
 
 header {
-    background-color: #2504e2;
+    background-color: black;
     padding: 1em;
-    text-align: right;
+    text-align: center;
 }
 
 header nav ul {
@@ -36,7 +36,7 @@ header nav ul li a:hover {
 
 
 footer {
-    background-color: #333;
+    background-color: black;
     color: white;
     padding: 1em;
     text-align: center;
@@ -54,7 +54,7 @@ footer {
 .upcoming-product h2 {
     font-size: 2em;
     margin-bottom: 1em;
-    color: #333;
+    color: rgb(112, 14, 15);
 }
 
 
@@ -141,6 +141,9 @@ footer {
     background-color: #ff4500;
   
 }
+
+
+
   
 
 
